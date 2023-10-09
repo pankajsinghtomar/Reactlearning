@@ -15,7 +15,7 @@ else {
 
 const emptyObj = {}
 if (Object.keys(emptyObj).length==0){
-    console.log("object is empty");
+    console.log(`object is empty`);
 }
 //Nullish coalescing operator (??): null undefined
 
